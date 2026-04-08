@@ -7,10 +7,10 @@ https://ethernaut.openzeppelin.com/
 Ethernaut is a series of wargame-style challenges designed to teach common smart contract vulnerabilities and security concepts.
 
 This repository documents my approach to each challenge, including:
+
 - vulnerability analysis
 - exploitation strategy
 - reproducible steps using Foundry
-
 
 ## Setup
 
@@ -67,13 +67,15 @@ Main Ethernaut contract:
 
 ## Instance Contracts
 
-| Number | Challenge        | Instance Address                           |
-|--------|------------------|--------------------------------------------|
-| 00     | Hello Ethernaut  | 0x4Faa59eEeAA769059695ae8dAC6CAE6Cf9d05A22 |
-| 01     | Fallback         | 0x119e9E79C8235D39D18653eE7396cBa8B117A87c |
-| 02     | Fallout          | 0x6fD05064A4BFe655a6de8b75253787ea98793506 |
-| 03     | Coin Flip        | 0x2975Df172118EcEeCC15720B1f0c719d1c1dA08C |
-| 04     | Telephone        | 0x0cec1526e3F792189bA518a2552baECD05033aF1 |
+| Number | Challenge       | Instance Address                           |
+| ------ | --------------- | ------------------------------------------ |
+| 00     | Hello Ethernaut | 0x4Faa59eEeAA769059695ae8dAC6CAE6Cf9d05A22 |
+| 01     | Fallback        | 0x119e9E79C8235D39D18653eE7396cBa8B117A87c |
+| 02     | Fallout         | 0x6fD05064A4BFe655a6de8b75253787ea98793506 |
+| 03     | Coin Flip       | 0x2975Df172118EcEeCC15720B1f0c719d1c1dA08C |
+| 04     | Telephone       | 0x0cec1526e3F792189bA518a2552baECD05033aF1 |
+| 05     | Token           | 0x19E644c42E0b412213e8F0127322829345464d32 |
+
 ---
 
 ## Link to my Ethernaut Challenge Page
