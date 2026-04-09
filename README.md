@@ -75,6 +75,7 @@ Main Ethernaut contract:
 | 03     | Coin Flip       | 0x2975Df172118EcEeCC15720B1f0c719d1c1dA08C |
 | 04     | Telephone       | 0x0cec1526e3F792189bA518a2552baECD05033aF1 |
 | 05     | Token           | 0x19E644c42E0b412213e8F0127322829345464d32 |
+| 0g     | Delegation      | 0x7B1afA7354264F5e881eB36054e53eD11a663ce9 |
 
 ---
 
