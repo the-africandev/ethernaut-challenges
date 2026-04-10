@@ -76,6 +76,8 @@ Main Ethernaut contract:
 | 04     | Telephone       | 0x0cec1526e3F792189bA518a2552baECD05033aF1 |
 | 05     | Token           | 0x19E644c42E0b412213e8F0127322829345464d32 |
 | 06     | Delegation      | 0x7B1afA7354264F5e881eB36054e53eD11a663ce9 |
+| 07     | Force           | 0xDEf3bd569f61e8B0AF2f2b71D7133683f348A680 |
+| 08     | Vault           | 0xEA057ABd71E43BB7fa5D70169b280e69f483d6a3 |
 
 ---
 
